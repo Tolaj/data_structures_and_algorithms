@@ -1,2 +1,3 @@
-# C-programs-
-Exercise oriented programs in c programming language.
+# Data Structures & Algorithms
+
+
